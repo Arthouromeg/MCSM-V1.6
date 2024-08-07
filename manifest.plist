@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://download1979.mediafire.com/pqhkxijshnigwL9YIq3XKw3DGxnPXpCUrVK4d20H9HsjGLUlYX6zUtmikH1iNvXsTepKaUnD41UkZxM2198UnZJ-x7OcTpszXC1Ib07yhrSDlaV6prqKzFelNS6i47Z_9rZgBxnMucnNhDdlN_gt-Q1McktiFjZ2Bz8cC6x0e31FMw/hgaaovml9ktcp5e/MCSM-1.4.0.ipa</string> <!-- URL to the .ipa file -->
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.telltalegames.app</string> <!-- Your app's bundle identifier -->
+        <key>bundle-version</key>
+        <string>1.4</string> <!-- Your app's version -->
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Minecraft Story Mode</string> <!-- Your app's name -->
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
