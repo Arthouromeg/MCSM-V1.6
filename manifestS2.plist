@@ -11,19 +11,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://filebin.net/kuyajozucb2cfh4r/mcsm_s1_signed-20240808_154823.ipa</string> <!-- URL to the .ipa file -->
+          <string>https://filebin.net/kuyajozucb2cfh4r/mcsm_s2_signed-20240808_154100.ipa</string> <!-- URL to the .ipa file -->
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.telltalegames.minecraft100</string> <!-- Your app's bundle identifier -->
+        <string>com.telltalegames.MC200</string> <!-- Your app's bundle identifier -->
         <key>bundle-version</key>
-        <string>1.7</string> <!-- Your app's version -->
+        <string>1.6</string> <!-- Your app's version -->
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Minecraft: Story Mode</string> <!-- Your app's name -->
+        <string>MCSM S2</string> <!-- Your app's name -->
       </dict>
     </dict>
   </array>
